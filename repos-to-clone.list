@@ -1,2 +1,4 @@
 microsoft/vscode-dev-containers
 microsoft/vscode-remote-try-python
+microsoft/vscode-remote-try-go
+microsoft/vscode-remote-try-node
